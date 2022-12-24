@@ -1,0 +1,75 @@
+body
+{
+    overflow-x: hidden;
+}
+
+.navbar-nav .btn a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-nav .btn a:hover
+{
+    color: #000;
+}
+
+.navbar-nav .btn .gallery
+{
+    color: #000;
+}
+
+.maincontent
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px 10px;
+}
+
+.maincontent .card
+{
+    width: 30rem;
+}
+
+.footer
+{
+    background-color: rgb(5, 5, 5);
+    color: #fff;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.userphoto, .userinfo, .acciologo, .userdesc
+{
+    margin: 10px;
+}
+
+.acciologo
+{
+    text-align: center;
+}
+
+.userinfo a
+{
+    color: #fff;
+}
+
+.userdesc
+{
+    width: 500px;
+    text-align: justify;
+}
+
+@media screen and (min-width: 382px) and (max-width: 991px) {
+
+    .userdesc
+    {
+        width: 300px;
+        text-align: justify;
+    }
+}
