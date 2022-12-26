@@ -1,5 +1,7 @@
 # weeklycontest3
 
+Deployment Link: https://lizannajohn.github.io/weeklycontest3/
+
 Step 1
 Figma Link for the project: https://www.figma.com/file/USGKMNT77w1O8Sbkuudfn9/F1-contest-3?node-id=0%3A1&t=TodqNCTbYzUQpDfr-0
 
